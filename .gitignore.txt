@@ -1,0 +1,4 @@
+build/
+dist/
+logs/*.log
+src/main/resources/dat/
